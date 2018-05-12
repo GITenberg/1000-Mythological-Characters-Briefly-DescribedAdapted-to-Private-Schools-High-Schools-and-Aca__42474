@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '2569'
     url: http://www.gutenberg.org/2009/agents/2569
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42474#1000-Mythological-Characters-Briefly-DescribedAdapted-to-Private-Schools-High-Schools-and-Aca_
 gutenberg_issued: '2013-04-07'
 gutenberg_type: Text
 identifiers:
