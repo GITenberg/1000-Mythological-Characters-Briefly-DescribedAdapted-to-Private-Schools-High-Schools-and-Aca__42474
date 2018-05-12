@@ -1,0 +1,35 @@
+_repo: 1000-Mythological-Characters-Briefly-DescribedAdapted-to-Private-Schools-High-Schools-and-Aca__42474
+_version: 0.1.0
+alternative_title: "One Thousand Mythological Characters Briefly Described\r\nAdapted\
+  \ to Private Schools, High Schools and Academies"
+covers:
+- cover_type: archival
+  image_path: 42474-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ellis, Edward Sylvester
+    aliases:
+    - Jayne, R. H.
+    - Ellis, Edward S. (Edward Sylvester)
+    - Ellis, E. S. (Edward Sylvester)
+    birthdate: 1840
+    deathdate: 1916
+    gutenberg_agent_id: '2569'
+    url: http://www.gutenberg.org/2009/agents/2569
+description: ''
+gutenberg_issued: '2013-04-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42474'
+  lccn: '00001011'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mythology -- Dictionaries'
+- !lcc 'BL'
+title: '1000 Mythological Characters Briefly Described
+
+  Adapted to Private Schools, High Schools and Academies'
+url: http://www.gutenberg.org/ebooks/42474
